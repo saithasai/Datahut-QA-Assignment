@@ -4,7 +4,8 @@ This is a data cleaning task. A dataset is provided and the task is to clean thi
 This is the problem statement:     
 You have been provided with a dataset named messy_Data.csv. Your task is to clean this dataset and ensure it is ready for analysis. Follow the instructions below to guide your data cleaning process. 
 1. Load the Data: 
-- Load the dataset into a jupyter notebook. Download the data from here: Messy data
+- Load the dataset into a jupyter notebook. Download the data from here: [messy_data.csv](https://github.com/user-attachments/files/17235062/messy_data.csv)
+
 2. Inspect the Data: 
 - Examine the data to understand its structure and identify the types of errors and inconsistencies present. 
 3. Record QA Issues: 
