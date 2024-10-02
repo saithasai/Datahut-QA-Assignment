@@ -1,7 +1,7 @@
 # Datahut-QA-Assignment
 
 This is a data cleaning task. A dataset is provided and the task is to clean this dataset and ensure it is ready for analysis as per the requirement.
-THis is the problem statement:     
+This is the problem statement:     
 You have been provided with a dataset named messy_Data.csv. Your task is to clean this dataset and ensure it is ready for analysis. Follow the instructions below to guide your data cleaning process. 
 1. Load the Data: 
 - Load the dataset into a jupyter notebook. Download the data from here: Messy data
